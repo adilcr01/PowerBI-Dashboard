@@ -1,2 +1,2 @@
 # PowerBI-Dashboard
-### This Reository contains Power BI Dashboards. 
+### This Repository contains Power BI Dashboards. 
